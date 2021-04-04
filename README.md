@@ -1,4 +1,4 @@
-![Whatsapp](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Fwhatsapp-logo%2F&psig=AOvVaw0TYcljRw6VJq4KVBk7xQxI&ust=1617652490757000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD71KKv5e8CFQAAAAAdAAAAABAD)
+<img src="Docs/whatsapp-logo-1.png" alt="drawing" width="200"/>
 # Análise de mensagens do Whatsapp
 Um jeito fácil de fazer análises básicas de mensagens de grupos do Whatsapp
  
